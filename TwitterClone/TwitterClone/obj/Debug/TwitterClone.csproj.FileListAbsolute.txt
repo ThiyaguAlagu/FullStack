@@ -1,0 +1,207 @@
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\TwitterClone.dll.config
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\TwitterClone.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\TwitterClone.pdb
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\csc.exe
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\csc.exe.config
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\csc.rsp
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\csi.exe
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\csi.exe.config
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\csi.rsp
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.AppContext.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Collections.Immutable.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Console.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.IO.Compression.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.IO.FileSystem.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.IO.Pipes.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Security.AccessControl.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Security.Claims.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.ValueTuple.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Xml.XPath.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\vbc.exe
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\vbc.exe.config
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\vbc.rsp
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\VBCSCompiler.exe
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\roslyn\VBCSCompiler.exe.config
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\Microsoft.Web.Infrastructure.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\System.Web.Helpers.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\System.Web.Mvc.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\System.Web.Razor.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\System.Web.Webpages.Deployment.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\System.Web.Webpages.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\System.Web.Webpages.Razor.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\System.Web.Razor.xml
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\System.Web.Webpages.xml
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\System.Web.Webpages.Deployment.xml
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\System.Web.Webpages.Razor.xml
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\System.Web.Helpers.xml
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\System.Web.Mvc.xml
+C:\Karthick\task20\TwitterClone\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Karthick\task20\TwitterClone\TwitterClone\obj\Debug\TwitterClone.csprojAssemblyReference.cache
+C:\Karthick\task20\TwitterClone\TwitterClone\obj\Debug\TwitterClone.csproj.CoreCompileInputs.cache
+C:\Karthick\task20\TwitterClone\TwitterClone\obj\Debug\TwitterClone.csproj.CopyComplete
+C:\Karthick\task20\TwitterClone\TwitterClone\obj\Debug\TwitterClone.dll
+C:\Karthick\task20\TwitterClone\TwitterClone\obj\Debug\TwitterClone.pdb
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\TwitterClone.dll.config
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\TwitterClone.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\TwitterClone.pdb
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\csc.exe
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\csc.exe.config
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\csc.rsp
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\csi.exe
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\csi.exe.config
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\csi.rsp
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Console.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\vbc.exe
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\vbc.rsp
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\System.Web.Helpers.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\System.Web.Mvc.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\System.Web.Razor.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\System.Web.Webpages.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\System.Web.Razor.xml
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\System.Web.Webpages.xml
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\System.Web.Helpers.xml
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\System.Web.Mvc.xml
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\obj\Debug\TwitterClone.csprojAssemblyReference.cache
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\obj\Debug\TwitterClone.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\obj\Debug\TwitterClone.csproj.CopyComplete
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\obj\Debug\TwitterClone.dll
+C:\Users\Admin\Source\TwitterClone - Copy\TwitterClone\obj\Debug\TwitterClone.pdb
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\TwitterClone.dll.config
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\TwitterClone.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\TwitterClone.pdb
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\csc.exe
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\csc.exe.config
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\csc.rsp
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\csi.exe
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\csi.exe.config
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\csi.rsp
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Console.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\vbc.exe
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\vbc.rsp
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\System.Web.Helpers.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\System.Web.Mvc.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\System.Web.Razor.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\System.Web.Webpages.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\System.Web.Razor.xml
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\System.Web.Webpages.xml
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\System.Web.Helpers.xml
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\System.Web.Mvc.xml
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\obj\Debug\TwitterClone.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\obj\Debug\TwitterClone.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\obj\Debug\TwitterClone.csproj.CopyComplete
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\obj\Debug\TwitterClone.dll
+C:\Users\Admin\Source\Repos\FullStack\TwitterClone\TwitterClone\obj\Debug\TwitterClone.pdb
